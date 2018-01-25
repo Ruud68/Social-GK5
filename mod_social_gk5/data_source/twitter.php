@@ -64,8 +64,8 @@ class SocialGK5TwitterHelper
             if($this->error == '') {
                 // saving cache
                 if($this->pData != '') {
-                	JFile::write(realpath('modules/mod_social_gk5/cache/cache.'.$this->id.'.json'), json_encode($this->pData));
-                	JFile::write(realpath('modules/mod_social_gk5/cache/cache.backup.'.$this->id.'.json'), json_encode($this->pData));
+                	JFile::write(__DIR__.'/../cache/cache.'.$this->id.'.json', json_encode($this->pData));
+                	JFile::write(__DIR__.'/../cache/cache.backup.'.$this->id.'.json', json_encode($this->pData));
                 }
             } else {
                 if (version_compare(PHP_VERSION, '5.4.0', '>=')) {

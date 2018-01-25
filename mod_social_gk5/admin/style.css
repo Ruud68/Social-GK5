@@ -171,134 +171,10 @@ fieldset.panelform .desc {
 	width: auto;
 	padding: 10px;
 }
-#config_manager_form button {
-	display: inline-block;
-	height: 30px;
-	line-height: 30px;
-	min-width: 60px;
-	padding: 0 8px;
-	border: 1px solid #415E7F;
-	-moz-border-radius: 2px;
-	-webkit-border-radius: 2px;
-	border-radius: 2px;
-	background-color: #415e7f;
-	background: -moz-linear-gradient(#4d6c90, #415E7F);
-	background: -o-linear-gradient(#4d6c90, #415E7F);
-	background: -webkit-linear-gradient(#4d6c90, #415E7F);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4d6c90), color-stop(1, #415E7F));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#4d6c90, EndColorStr=#415E7F)";
-	background: linear-gradient(#4d6c90, #415E7F);
-	background: -moz-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -o-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4d6c90), color-stop(1, #415E7F));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#4d6c90, EndColorStr=#415E7F)";
-	background: linear-gradient(center top, #4d6c90, #415E7F);
-	background: -moz-linear-gradient(#4d6c90, #415E7F);
-	background: -o-linear-gradient(#4d6c90, #415E7F);
-	background: -webkit-linear-gradient(#4d6c90, #415E7F);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4d6c90), color-stop(1, #415E7F));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#4d6c90, EndColorStr=#415E7F)";
-	background: linear-gradient(#4d6c90, #415E7F);
-	background: -moz-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -o-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4d6c90), color-stop(1, #415E7F));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#4d6c90, EndColorStr=#415E7F)";
-	background: linear-gradient(center top, #4d6c90, #415E7F);
-	background: -moz-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -o-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-linear-gradient(center top, #4d6c90, #415E7F);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4d6c90), color-stop(1, #415E7F));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#4d6c90, EndColorStr=#415E7F)";
-	background: linear-gradient(center top, #4d6c90, #415E7F);
-	color: #fff !important;
-	font-size: 12px;
-	font-weight: bold;
-	text-align: center;
-}
-#config_manager_form button {
-	height: 30px;
-	line-height: 28px;
-	font-family: Arial, Helvetica, sans-serif;
-}
-#config_manager_load,
- #config_manager_delete {
-	margin-left: 41px
-}
-#config_manager_form button {
-	border: 1px solid #d8d8d8;
-	background: #f1f1f1;
-	background: -moz-linear-gradient(#fefefe, #f1f1f1);
-	background: -o-linear-gradient(#fefefe, #f1f1f1);
-	background: -webkit-linear-gradient(#fefefe, #f1f1f1);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #f1f1f1));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#fefefe, EndColorStr=#f1f1f1)";
-	background: linear-gradient(#fefefe, #f1f1f1);
-	background: -moz-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -o-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #f1f1f1));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#fefefe, EndColorStr=#f1f1f1)";
-	background: linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -moz-linear-gradient(#fefefe, #f1f1f1);
-	background: -o-linear-gradient(#fefefe, #f1f1f1);
-	background: -webkit-linear-gradient(#fefefe, #f1f1f1);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #f1f1f1));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#fefefe, EndColorStr=#f1f1f1)";
-	background: linear-gradient(#fefefe, #f1f1f1);
-	background: -moz-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -o-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #f1f1f1));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#fefefe, EndColorStr=#f1f1f1)";
-	background: linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -moz-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -o-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-linear-gradient(center top, #fefefe, #f1f1f1);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #f1f1f1));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#fefefe, EndColorStr=#f1f1f1)";
-	background: linear-gradient(center top, #fefefe, #f1f1f1);
-	color: #549ad0 !important;
-}
-#config_manager_form button:hover {
-	background: #222;
-	background: -moz-linear-gradient(#363636, #222);
-	background: -o-linear-gradient(#363636, #222);
-	background: -webkit-linear-gradient(#363636, #222);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #363636), color-stop(1, #222));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#363636, EndColorStr=#222)";
-	background: linear-gradient(#363636, #222);
-	background: -moz-linear-gradient(center top, #363636, #222);
-	background: -o-linear-gradient(center top, #363636, #222);
-	background: -webkit-linear-gradient(center top, #363636, #222);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #363636), color-stop(1, #222));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#363636, EndColorStr=#222)";
-	background: linear-gradient(center top, #363636, #222);
-	background: -moz-linear-gradient(#363636, #222);
-	background: -o-linear-gradient(#363636, #222);
-	background: -webkit-linear-gradient(#363636, #222);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #363636), color-stop(1, #222));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#363636, EndColorStr=#222)";
-	background: linear-gradient(#363636, #222);
-	background: -moz-linear-gradient(center top, #363636, #222);
-	background: -o-linear-gradient(center top, #363636, #222);
-	background: -webkit-linear-gradient(center top, #363636, #222);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #363636), color-stop(1, #222));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#363636, EndColorStr=#222)";
-	background: linear-gradient(center top, #363636, #222);
-	background: -moz-linear-gradient(center top, #363636, #222);
-	background: -o-linear-gradient(center top, #363636, #222);
-	background: -webkit-linear-gradient(center top, #363636, #222);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #363636), color-stop(1, #222));
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#363636, EndColorStr=#222)";
-	background: linear-gradient(center top, #363636, #222);
-	border: 1px solid #222;
-	text-decoration: none;
-	color: #fff !important;
-}
+
+
 select#jform_params_module_data_source.fb,
- select#jform_params_module_data_source option[value="fb"] {
+select#jform_params_module_data_source option[value="fb"] {
 	background: transparent url(fb.png) no-repeat 4px 3px
 }
 select#jform_params_module_data_source.gplus,
@@ -321,9 +197,9 @@ select#jform_params_module_data_source {
 	text-align: left;
 	margin: 0;
 	padding-right: 23px;
+	display: inline-block!important
 }
 /* Updates */
-
 #gk_module_updates {
 	margin: 20px -10px 0;
 	border-right: 1px solid #eee;
@@ -376,45 +252,9 @@ span.gk_update_link a:hover {
 /* Config manager */
 
 #jform_params_config_manager-lbl {
-	display: none
+	display: none;
 }
-#config_manager_form {
-	clear: both;
-	color: #555;
-	margin: 16px 0;
-	border: 3px solid #eee;
-	padding: 10px;
-	overflow: hidden;
-}
-#config_manager_form > div {
-	clear: both;
-	overflow: hidden;
-	padding: 2px 0;
-}
-#config_manager_form > div:last-child span {
-	-ms-text-overflow: ellipsis;
-	-o-text-overflow: ellipsis;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	white-space: nowrap;
-	max-width: 250px;
-	-moz-transition: 0.5s max-width linear;
-	-o-transition: 0.5s max-width linear;
-	-webkit-transition: 0.5s max-width linear;
-	transition: 0.5s max-width linear;
-}
-#config_manager_form > div:last-child:hover span {
-	max-width: inherit
-}
-#config_manager_form span {
-	float: left;
-	line-height: 36px;
-	margin-right: 10px;
-	margin-left: -3px;
-}
-#config_manager_form input[type="text"] {
-	text-align: right
-}
+
 #config_manager_form > div.gk_ok {
 	text-align: center;
 	font-weight: bold;
@@ -422,10 +262,12 @@ span.gk_update_link a:hover {
 	margin: 10px;
 	color: #fff;
 	padding: 8px 0;
-	-moz-border-radius: 4px;
+
 	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
 	border-radius: 4px;
 }
+
 #config_manager_form > div.gk_error {
 	text-align: center;
 	font-weight: bold;
@@ -433,16 +275,63 @@ span.gk_update_link a:hover {
 	margin: 10px;
 	color: #fff;
 	padding: 8px 0;
-	-moz-border-radius: 4px;
+
 	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
 	border-radius: 4px;
 }
+
 #config_manager_form label {
-	margin: 11px 0 0 0
+	margin: 11px 0 0 0;
 }
-button#twitter_load_lists {
-	line-height: 21px
+
+button#config_manager_load,
+button#config_manager_delete {
+	min-width: 85px;
+	position: relative;
+	margin-left: 12px;
+	vertical-align: top;
 }
+button#config_manager_save {
+	min-width: 85px;
+	margin-left: 12px;
+}
+.nav-tabs > li.gkUnvisible {
+	display: none;
+}
+div.invisible {
+	display: none;
+}
+div#jform_params_module_data_source_chzn {
+	display: none;
+}
+div#config_manager_form {
+	padding: 15px;
+	border: 1px solid #eee;
+	border-radius: 10px;
+	background: #fafafa;
+}
+div#config_manager_form label {
+	display: inline-block;
+	min-width: 160px;
+	margin: 0;
+}
+div#config_manager_form > div {
+	margin: 6px 0;	
+}
+#config_manager_form {
+	word-wrap: break-word !important;
+}
+div#config_manager_form > div:last-child {
+	margin: 10px 0 7px;	
+}
+div#config_manager_form button i {
+	margin-right:5px;
+}
+div#config_manager_form span.label-warning {
+	margin-right: 64px;
+}
+
 div.colorpicker-container {
 	z-index: 9999
 }
@@ -552,3 +441,73 @@ div.colorpicker-container {
 h3#SOCIAL_TWITTER_BASIC-options div li:last-child {
 	border: none
 }
+
+/*Joomla 3.0! fixes */
+#twitter_load_lists {
+	margin-left: 5px;	
+}
+select#jform_params_twitter_widget,
+select#jform_params_twitter_lists {
+	display: inline-block!important;
+}
+select#jform_params_twitter_widget + div,
+select#jform_params_twitter_lists + div {
+	display: none !important;
+}
+
+/* Joomla! 3.2.x styles */
+.j32 ul#myTabTabs {
+	width: 20%;
+	float: left;
+	border-bottom: 0;
+	border-right: 1px solid #fafafa;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.j32 #jform_note { max-width: 220px; }
+.j32 #jform_params_cacheTime {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+.j32 .input-prepend .add-on { margin-left: -1px; margin-right: 0; }
+.j32 ul#myTabTabs > li {
+	width: 90%;
+	margin: 2px 0;
+}
+.j32 ul#myTabTabs > li > a {
+	color: #666;
+	border: 1px solid #ddd;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.j32 ul#myTabTabs > li.active > a {
+	color: #fff;
+	background: #59B1F6;
+	border-color: #2587d3;
+}
+.j32 div#myTabContent {
+	float: right;
+	width: 80%;
+}
+.j32 div#myTabContent > div { margin-left: 35px }
+.j32 #general .span3 { width: 100% }
+.j32 #general .span9 { display: none }
+.j32 #jform_menuselect {
+	clear: both;
+	width: 100%;
+	margin: 0;
+}
+.j32 #jform_params_data_source { display: block!important; }
+.j32 #jform_params_data_source_chzn { display: none!important; }
+.j32 #config_manager_form {
+	position: relative;
+}
+.j32 > .form-inline-header > .control-group {
+	width: 100%;
+}
+.j32 > .form-inline-header > .control-group > .control-label { width: 10%; float: left; padding: 0!important; line-height: 32px }
+.j32 > .form-inline-header > .control-group > .controls { width: 90%; float: left; padding: 0!important }
+.j32 > .form-inline-header > .control-group > .controls > input { max-width: 99%; width: 99%}
